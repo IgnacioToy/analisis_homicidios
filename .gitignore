@@ -1,0 +1,14 @@
+# Entornos virtuales (librerías instaladas)
+venv/
+env/
+.venv/
+.env/
+bin/
+Lib/
+Include/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter Notebook (opcional)
